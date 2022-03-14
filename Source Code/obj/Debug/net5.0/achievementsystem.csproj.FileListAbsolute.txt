@@ -1,0 +1,16 @@
+C:\Users\gusta\.code\achievementsystem\bin\Debug\net5.0\achievementsystem.exe
+C:\Users\gusta\.code\achievementsystem\bin\Debug\net5.0\achievementsystem.deps.json
+C:\Users\gusta\.code\achievementsystem\bin\Debug\net5.0\achievementsystem.runtimeconfig.json
+C:\Users\gusta\.code\achievementsystem\bin\Debug\net5.0\achievementsystem.runtimeconfig.dev.json
+C:\Users\gusta\.code\achievementsystem\bin\Debug\net5.0\achievementsystem.dll
+C:\Users\gusta\.code\achievementsystem\bin\Debug\net5.0\ref\achievementsystem.dll
+C:\Users\gusta\.code\achievementsystem\bin\Debug\net5.0\achievementsystem.pdb
+C:\Users\gusta\.code\achievementsystem\obj\Debug\net5.0\achievementsystem.csproj.AssemblyReference.cache
+C:\Users\gusta\.code\achievementsystem\obj\Debug\net5.0\achievementsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\.code\achievementsystem\obj\Debug\net5.0\achievementsystem.AssemblyInfoInputs.cache
+C:\Users\gusta\.code\achievementsystem\obj\Debug\net5.0\achievementsystem.AssemblyInfo.cs
+C:\Users\gusta\.code\achievementsystem\obj\Debug\net5.0\achievementsystem.csproj.CoreCompileInputs.cache
+C:\Users\gusta\.code\achievementsystem\obj\Debug\net5.0\achievementsystem.dll
+C:\Users\gusta\.code\achievementsystem\obj\Debug\net5.0\ref\achievementsystem.dll
+C:\Users\gusta\.code\achievementsystem\obj\Debug\net5.0\achievementsystem.pdb
+C:\Users\gusta\.code\achievementsystem\obj\Debug\net5.0\achievementsystem.genruntimeconfig.cache
